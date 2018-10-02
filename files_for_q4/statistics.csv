@@ -1,4 +1,4 @@
-Stat Min Max Mean SD Correl Median Mode Missing
+Attribute Min Max Mean SD Correl Median Mode Missing
 population 0 1 0.06 0.13 0.37 0.02 0.01 0
 householdsize 0 1 0.46 0.16 -0.03 0.44 0.41 0
 racepctblack 0 1 0.18 0.25 0.63 0.06 0.01 0
